@@ -1,0 +1,10 @@
+E:\(GIT)\21_Danial_PA9\21_Danial_PA9\21_Danial_PA9\bin\Debug\21_Danial_PA9.exe.config
+E:\(GIT)\21_Danial_PA9\21_Danial_PA9\21_Danial_PA9\bin\Debug\21_Danial_PA9.exe
+E:\(GIT)\21_Danial_PA9\21_Danial_PA9\21_Danial_PA9\bin\Debug\21_Danial_PA9.pdb
+E:\(GIT)\21_Danial_PA9\21_Danial_PA9\21_Danial_PA9\obj\Debug\21_Danial_PA9.csprojAssemblyReference.cache
+E:\(GIT)\21_Danial_PA9\21_Danial_PA9\21_Danial_PA9\obj\Debug\_21_Danial_PA9.Form1.resources
+E:\(GIT)\21_Danial_PA9\21_Danial_PA9\21_Danial_PA9\obj\Debug\_21_Danial_PA9.Properties.Resources.resources
+E:\(GIT)\21_Danial_PA9\21_Danial_PA9\21_Danial_PA9\obj\Debug\21_Danial_PA9.csproj.GenerateResource.cache
+E:\(GIT)\21_Danial_PA9\21_Danial_PA9\21_Danial_PA9\obj\Debug\21_Danial_PA9.csproj.CoreCompileInputs.cache
+E:\(GIT)\21_Danial_PA9\21_Danial_PA9\21_Danial_PA9\obj\Debug\21_Danial_PA9.exe
+E:\(GIT)\21_Danial_PA9\21_Danial_PA9\21_Danial_PA9\obj\Debug\21_Danial_PA9.pdb
